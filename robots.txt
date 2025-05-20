@@ -1,5 +1,7 @@
 User-agent: *
-Disallow: /cdn-cgi/l/email-protection
-Allow: /
+Allow: /services/
+Allow: /projects/
+Disallow: /cdn-cgi/
+Disallow: /tmp/
 
 Sitemap: https://waterplants.alwejhagroup.com/sitemap.xml
